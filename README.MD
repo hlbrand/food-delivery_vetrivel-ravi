@@ -49,4 +49,3 @@ yarn start
 | React Router DOM
 | Framer Motion
 | React Icons
-
